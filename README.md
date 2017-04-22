@@ -8,7 +8,7 @@ perf practice
 git clone https://github.com/brendangregg/FlameGraph
 ```
 
-### helper
+### helper（C Language）
 ```shell
 #!/bin/bash
 
