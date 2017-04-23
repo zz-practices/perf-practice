@@ -8,9 +8,9 @@ perf practice
 git clone https://github.com/brendangregg/FlameGraph
 ```
 
-### helper（profiler: perf）
+### helper
 ```shell
 ./helper.sh command
 ```
 
-**Note:**command must be single-process.
+`Note`: command must be single-process.
